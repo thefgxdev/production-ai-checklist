@@ -36,4 +36,4 @@ O que é preciso para uma funcionalidade com modelos de linguagem funcionar na s
 
 ## License
 
-MIT.
+Apache-2.0. Copyright (c) 2026 Felipe Guedes (fgxdev.com). Redistributions must keep the NOTICE file and mark any changes.
